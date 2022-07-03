@@ -4,6 +4,8 @@ Hi 👋 My name is Michael Friedman
 Frontend Devloper
 -----------------
 
+
+*     Checkout my portfolio https://mfried95.github.io/Portfolio/
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [michaelf1995@hotmail.com](mailto:michaelf1995@hotmail.com)
 * 🧠  I'm learning Javascript, ReactJs, and Tailwind CSS
