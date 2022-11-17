@@ -6,7 +6,7 @@ Frontend Devloper
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [michaelf1995@hotmail.com](mailto:michaelf1995@hotmail.com)
-* 🧠  I'm learning Javascript, ReactJs, and Tailwind CSS
+* 🧠  My stack is Javascript, ReactJs, and Tailwind CSS
 * 🤝  I'm looking for Full-time work and are open to collaborating on Interesting projects
 
 ### Skills
