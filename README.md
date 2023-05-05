@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mfried95&label=Profile%20views&color=0e75b6&style=flat" alt="mfried95" /> </p>
 
-- 👨‍💻 All of my projects are available at [[https://mfried95.github.io/Portfolio/]([https://mfriedman.dev/)](https://mfried95.github.io/Portfolio/](https://mfriedman.dev/))
+- 👨‍💻 All of my projects are available at (https://mfriedman.dev/))
 
 - 📫 How to reach me **michaelf1995@hotmail.com**
 
