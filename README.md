@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at (https://mfriedman.dev/))
 
-- 📫 How to reach me **michaelf1995@hotmail.com**
+- 📫 How to reach me **m.friedman1995@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
