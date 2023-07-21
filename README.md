@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mfried95&label=Profile%20views&color=0e75b6&style=flat" alt="mfried95" /> </p>
 
-- 🌱 I’m currently learning **React Native, .NET,NextJs**
+- 🌱 I’m currently learning **React Native, .NET, NextJs, Python
 
 - 👨‍💻 All of my projects are available at [https://mfriedman.dev/](https://mfriedman.dev/)
 
