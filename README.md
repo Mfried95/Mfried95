@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **m.friedman1995@gmail.com**
 
-- 📄 Know about my experiences [https://mfriedman.dev/Michael%20Friedman%20-%20Devloper.pdf]([https://mfriedman.dev/Michael%20Friedman%20-%20Devloper.pdf](https://mfriedman.dev/dev-resume.pdf))
-
 - ⚡ Fun fact **On my free time I like to lift weights, game and invest/follow financial markets**
 
 <h3 align="left">Connect with me:</h3>
