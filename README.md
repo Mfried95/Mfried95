@@ -1,8 +1,6 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Fullstack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mfried95&label=Profile%20views&color=0e75b6&style=flat" alt="mfried95" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mfried95" alt="mfried95" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://mfriedman.dev/](https://mfriedman.dev/)
 
@@ -21,5 +19,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mfried95&show_icons=true&locale=en" alt="mfried95" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mfried95&" alt="mfried95" /></p>
-
 
